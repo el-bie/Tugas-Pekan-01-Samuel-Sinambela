@@ -1,0 +1,71 @@
+
+.bg-full{
+    background-color: #fff;
+
+}
+
+.menu-bar{
+    padding-right: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+}
+
+.judul-halaman{
+    color: rgb(104, 11, 191);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-self: center;
+}
+
+#paragraf{
+    color: darkblue;
+    text-justify: auto;
+    text-align: justify;
+    font-size: larger;
+}
+
+
+.tombol{
+    background-color: antiquewhite;
+    border-color: aqua;
+    border-radius: 20px;
+    border-width: 3px;
+    padding-right:5px;
+    padding-left: 5px;
+    margin-top: px;
+    margin-left: 50px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tombol-cta-a{
+
+    background-color: antiquewhite;
+    border-color: aqua;
+    border-radius: 20px;
+    border-width: 3px;
+    padding-right:5px;
+    padding-left: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.tombol-cta-b{
+    background-color: antiquewhite;
+    border-color: aqua;
+    border-radius: 20px;
+    border-width: 3px;
+    padding-right:5px;
+    padding-left: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: center;
+    color: black;
+    font-size: 17px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
